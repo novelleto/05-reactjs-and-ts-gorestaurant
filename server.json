@@ -14,15 +14,25 @@
       "description": "Macarrão com pimentão, ervilha e ervas finas colhidas no himalaia.",
       "price": "21.90",
       "available": true,
-      "image": "https://storage.googleapis.com/golden-wind/bootcamp-gostack/desafio-food/food2.png"
+      "image": "https://storage.googleapis.com/golden-wind/bootcamp-gostack/desafio-food/food2.png",
+      "avaiable": false
     },
     {
       "id": 3,
       "name": "A la Camarón",
       "description": "Macarrão com vegetais de primeira linha e camarão dos 7 mares.",
-      "price": "25.90",
+      "price": "35.90",
       "available": true,
-      "image": "https://storage.googleapis.com/golden-wind/bootcamp-gostack/desafio-food/food3.png"
+      "image": "https://storage.googleapis.com/golden-wind/bootcamp-gostack/desafio-food/food3.png",
+      "avaiable": true
+    },
+    {
+      "image": "https://piracanjuba.com.br/content/receitas/cont/0000000068/rec068_1913.jpg",
+      "name": "Carbonara",
+      "price": "29,90",
+      "description": "Espaguete à carbonara.",
+      "available": true,
+      "id": 4
     }
   ]
 }
